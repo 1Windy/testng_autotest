@@ -8,5 +8,5 @@
     <params>
     	<param name="test" value="value"></param>
     </params>
-    <project_name>接口自动化测试报告demo</project_name>
+    <project_name>testng接口自动化测试报告</project_name>
 </root>
